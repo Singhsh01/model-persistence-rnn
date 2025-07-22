@@ -27,20 +27,6 @@ The project consists of two tasks:
 
 ---
 
-## 🗃️ Directory Structure
-
-model-persistence-rnn/
-├── A_RNN.ipynb # Model training, Colab setup, and persistence
-├── B_RNN.ipynb # Limerick generation with trained models
-├── Data/ # (To store input data files)
-│ └── .gitkeep
-├── Model/ # (To store saved model checkpoints)
-│ └── .gitkeep
-
-
-
----
-
 ## 🚀 Google Colab Support
 
 Both notebooks are optimized for use in [Google Colab](https://colab.research.google.com/), enabling faster training through GPU acceleration.
